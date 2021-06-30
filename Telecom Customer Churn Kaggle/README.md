@@ -1,3 +1,4 @@
 1. This project involves Predicting the customers that are likely to churn 
 2. We found AdaBoost Classifier to be achieving the best results so we have included ipynb file pertaining to that only 
-3. For further information check the Result Evaluation Documentation
+3. Check the EDA ipynb file for all the Data Preparation and preprocessing
+4. For further information check the Result Evaluation Documentation
